@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Julie\\OneDrive\\Documents\\GitHub\\FizzBuzz",
+            "binaryPath": "c:\\Users\\Julie\\OneDrive\\Documents\\GitHub\\FizzBuzz\\programmet-debug.exe",
+            "binaryArgs": []
+        }
+    ]
+}
